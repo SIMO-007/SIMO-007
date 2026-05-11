@@ -70,7 +70,7 @@ Python · Bash · PowerShell · C / C++
 
 ## 🌐 Languages
 
-🇬🇧 English C2 &nbsp;·&nbsp; 🇫🇷 French C1 &nbsp;·&nbsp; 🇲🇦 Arabic (Native)
+🇬🇧 English &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; Arabic 
 
 ---
 
