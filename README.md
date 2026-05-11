@@ -1,19 +1,11 @@
 <div align="center">
 
-```
-███████╗██╗███╗   ███╗ ██████╗
-██╔════╝██║████╗ ████║██╔═══██╗
-███████╗██║██╔████╔██║██║   ██║
-╚════██║██║██║╚██╔╝██║██║   ██║
-███████║██║██║ ╚═╝ ██║╚██████╔╝
-╚══════╝╚═╝╚═╝     ╚═╝ ╚═════╝
-```
 
-# Hey, I'm Simo 👋
+# Hey, I'm Mohammed 👋
 
-**`$ whoami → MSc Cybersecurity & AI · EFREI Paris`**
+**`MSc Cybersecurity & AI · EFREI Paris`**
 
-🔐 Cybersecurity &nbsp;·&nbsp; 🤖 AI / ML &nbsp;·&nbsp; 🐧 Linux Hardening &nbsp;·&nbsp; 📍 Paris, France
+🔐 Cybersecurity &nbsp;·&nbsp; 🤖 AI / ML &nbsp;·&nbsp; 📍 Paris, France
 
 </div>
 
@@ -25,10 +17,8 @@
 |---|---|
 | 🎓 | **MSc Cybersecurity & Artificial Intelligence** @ EFREI Paris *(2024 → present)* |
 | 💼 | Currently **Cybersecurity Operator** @ Vistory SAS — SIEM, forensics, hardening |
-| 🔭 | Focused on offensive security, SIEM migration (Splunk → ELK), and SecNumCloud |
 | 🌱 | Diving deep into pentest, LLMs, and threat detection automation |
 | 🎯 | Working toward **HTB CPTS** certification |
-| 💬 | Ask me about **SIEM tuning**, **web exploitation**, or **Python automation** |
 
 ---
 
@@ -36,9 +26,7 @@
 
 **🔐 Cybersecurity & Pentest**
 ```
-Splunk · ELK (Elastic) · Wireshark · Nmap · Metasploit · Burp Suite
-Linux Hardening · Web Exploitation (SQLi, XSS, CSRF) · Privilege Escalation · Active Directory
-Hack The Box · TryHackMe
+Splunk · ELK · Nmap · Metasploit · Web Exploitation (SQLi, XSS, CSRF) · Privilege Escalation · Active Directory · Hack The Box
 ```
 
 **🤖 AI & Machine Learning**
@@ -48,13 +36,12 @@ Python · TensorFlow · Hugging Face · Scikit-learn · NLP · LLM
 
 **☁️ Cloud & DevOps**
 ```
-AWS · Microsoft Azure · Oracle Cloud (OCI) · Cloud Temple
-Ansible · Docker · Bash · PowerShell
+AWS · Microsoft Azure · Oracle Cloud (OCI) · Cloud Temple · Ansible · Docker
 ```
 
 **💻 Languages**
 ```
-Python · Bash · PowerShell · C / C++ · Django · React
+Python · Bash · PowerShell · C / C++
 ```
 
 ---
@@ -71,20 +58,6 @@ Python · Bash · PowerShell · C / C++ · Django · React
 
 ---
 
-## 💼 Experience
-
-```
-▸ Cybersecurity Operator (Alternance) · Vistory SAS · Paris
-  Sept 2024 → present
-  SIEM Splunk deployment · ELK migration · Linux hardening · SecNumCloud · Python/Bash automation
-
-▸ Full Stack Developer Intern · Uniqmedia · Meknes, Morocco
-  Jun – Aug 2023
-  Django · React · MySQL
-```
-
----
-
 ## 🏅 Certifications
 
 - 🟠 **Hack The Box CPTS** *(in progress)*
@@ -92,19 +65,6 @@ Python · Bash · PowerShell · C / C++ · Django · React
 - ✅ **RH294 Red Hat Ansible Automation**
 - ✅ **DeepLearning.AI Deep Learning Specialization**
 - ✅ **IBM Data Science Professional Certificate**
-- ✅ **Linguaskill C1+ Business · DALF C1**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Simo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIMO-007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIMO-007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75)
-
-</div>
 
 ---
 
