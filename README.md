@@ -26,7 +26,7 @@
 
 **🔐 Cybersecurity & Pentest**
 ```
-Splunk · ELK · Nmap · Metasploit · Web Exploitation (SQLi, XSS, CSRF) · Privilege Escalation · Active Directory · Hack The Box
+Splunk · ELK · Metasploit · Web Exploitation · Privilege Escalation · Active Directory · Hack The Box
 ```
 
 **🤖 AI & Machine Learning**
